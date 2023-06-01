@@ -40,15 +40,15 @@ The code also defines a function called author_split that splits the names of au
 
 The code then performs SQL queries on the database to extract information. It retrieves the titles of books, their published dates, and the maximum number of weeks they appeared on the best-sellers list. It creates a histogram visualization using this information.
 
-![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/6b9044b8-0918-41fb-b4f6-32756aefd000)
+![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/67bbfa8d-b97e-4041-bf66-19e828257b41)
 
 It also retrieves the titles, published dates, and maximum weeks for books that were on the best-sellers list for 10 or more weeks.
 
-![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/951ace62-0e11-4200-b613-59b86104f7e0)
+![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/f4f165b0-4e36-4390-976c-6c09e64d9d1e)
 
 Furthermore, it retrieves the titles of books published after 2020 and creates a histogram of the publication years.
 
-![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/7ea68574-5325-4676-b9a4-9b0d0bc94d27)
+![image](https://github.com/aradhya-git/Longevity_Partners/assets/111474250/53144632-bf47-4943-afc3-c0bc4e3fd1af)
 
 In summary, this code reads data about best-selling books, stores it in a database, and performs various queries to analyze and visualize the information. It helps us understand which books were popular for a long time, which authors were involved, and when the books were published.
 
