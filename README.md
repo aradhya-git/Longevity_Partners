@@ -4,6 +4,8 @@
 
 As a Database Engineer, I have been tasked with designing a database for BookIt, a small start-up book review company. The purpose of the database is to store information about weekly best-selling "Combined Print & E-Book Nonfiction" books from the New York Times, as well as details about the authors and commentary provided by the BookIt Team.
 
+Currently, the project is working on full refresh and needs to shifted to incremental updates. 
+
 ## ER Diagram
 
 <img width="756" alt="Screen Shot 2023-05-31 at 10 22 58 PM" src="https://github.com/aradhya-git/Longevity_Partners/assets/111474250/d4bd6120-0e97-4ca0-8185-ae4b36b501a1">
