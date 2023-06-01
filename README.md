@@ -1,10 +1,17 @@
 # Longevity_Partners
 
+### Instructions:
+Clone Repository https://github.com/aradhya-git/Longevity_Partners And run the main.ipynb in Jupyter Notebook, and if using google colab then upload all .csv files because the API Call are slow. 
+
 ## About The Project
 
 As a Database Engineer, I have been tasked with designing a database for BookIt, a small start-up book review company. The purpose of the database is to store information about weekly best-selling "Combined Print & E-Book Nonfiction" books from the New York Times, as well as details about the authors and commentary provided by the BookIt Team.
 
 Currently, the project is working on full refresh and needs to shifted to incremental updates. 
+
+## API 
+
+NY Times api key was generated and used. The API can be called 5 times in a minutes and at max 500 times in a day.
 
 ## ER Diagram
 
